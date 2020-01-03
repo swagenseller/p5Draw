@@ -1,0 +1,1 @@
+// intialze a 2d array depending on the given canvas dimensions
